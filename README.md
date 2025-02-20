@@ -1,4 +1,4 @@
-sample onotolical dataset for #theartplug #marcelkatz 
+sample ontological dataset for #theartplug #marcelkatz 
 Cross refrenced with #postman and Rstudio 
 made For Javascript And c#
 @theartplug on all social media 
